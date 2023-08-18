@@ -153,9 +153,10 @@ The Firebase Quiz App with Realtime Rewards provides an interactive and educatio
 
 # Project 3 : Location Sharing App
 
-## Description
+
 ![trackmate log](logo_trackmate.png)
 
+## Description
 
 The Location Sharing App is a versatile and feature-rich application built with Flutter, Firebase, and Google Maps API. This app allows users to securely share their location with friends and family, enhancing connectivity and safety.
 
