@@ -5,8 +5,8 @@
 
 <img src="IMG_20230811_184517-modified.png" alt="Profile Picture"  style="border: 2px solid #007bff; border-radius: 50%; width: 150px; height: 150px;">
 
-## About Me :india:
-
+## About Me 
+:IN:
 Hello! I'm Sankalp Mathur, a results-driven Flutter developer with a passion for creating efficient and user-friendly applications. I specialize in front-end and back-end development, utilizing the latest technologies to deliver high-quality solutions.
 
 # Technical Skills
