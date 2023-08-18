@@ -12,6 +12,14 @@ Hello! I'm Sankalp Mathur, a results-driven Flutter developer with a passion for
 
 Here's a breakdown of my technical skills and expertise:
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Programming Languages
 
 - **Flutter and Dart:** I possess an in-depth understanding of Flutter app development and Dart programming, enabling me to create elegant and responsive mobile applications.
