@@ -8,13 +8,35 @@ I'm a passionate Flutter developer with a strong interest in both software devel
 
 ## Projects
 
-### Project 1: Flutter Weather App
+### Project 1: Flutter Notes App
 
 ![Note Nest](logo_.png)
 
-- **Description:** A Flutter app that provides real-time weather updates based on the user's location.
-- **Features:** Current weather conditions, 7-day forecast, location-based data.
-- **GitHub Repository:** [Weather App Repo](https://github.com/yourusername/weather-app)
+- **Description:** The Firestore Note App with BLoC is a powerful and intuitive note-taking application built using the Flutter framework. This app enables users to create, edit, and manage their notes seamlessly while harnessing the capabilities of Firebase Firestore for real-time data synchronization.
+- **Features**
+User Authentication: Users can create accounts or log in using their credentials, ensuring a secure and personalized experience.
+
+Note Creation and Editing: Users can effortlessly create new notes, edit existing ones, and apply formatting to their text content.
+
+Real-time Synchronization: The app utilizes Firebase Firestore to synchronize notes across multiple devices in real time, providing users with instant access to their content.
+
+BLoC State Management: The BLoC (Business Logic Component) architecture is employed for effective state management. This ensures a separation of concerns, making the app more maintainable and testable.
+
+Categorization and Organization: Notes can be organized into categories or folders, allowing users to keep their thoughts and ideas well-structured.
+
+Search and Filtering: A robust search functionality enables users to quickly locate specific notes by keywords. Filtering options further enhance the user experience.
+
+Responsive Design: The app's user interface is responsive, adapting to various screen sizes and orientations, providing a consistent experience across devices.
+- **Technologies Used**
+Flutter: The app is developed using the Flutter framework, enabling cross-platform compatibility and a native-like user experience.
+
+Firebase Firestore: Firestore is used to store and synchronize note data across devices in real time.
+
+BLoC State Management: The BLoC pattern is employed to manage the app's state and logic, promoting efficient code organization.
+
+Firebase Authentication: User authentication and security are ensured through Firebase Authentication services.
+
+Firebase Storage: Firebase Storage is used for efficiently managing and storing user-uploaded images or media within notes.
 
 ### Project 2: Mechanical Design Showcase
 
