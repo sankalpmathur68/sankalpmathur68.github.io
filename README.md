@@ -56,7 +56,7 @@ Project 1: Flutter Notes App
 
 ![Note Nest](logo_.png)
 
-### Description
+## Description
 
 The Firestore Note App with BLoC is a powerful and intuitive note-taking application built using the Flutter framework. This app enables users to create, edit, and manage their notes seamlessly while harnessing the capabilities of Firebase Firestore for real-time data synchronization.
 ### Features
