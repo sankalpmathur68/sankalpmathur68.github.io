@@ -2,13 +2,54 @@
 
 # Sankalp Mathur 
 
-<img src="IMG_20230811_184517-modified.png" alt="Profile Picture" width="200" height="200">
 
-Welcome to my portfolio, where I showcase my projects and skills as a Flutter developer and mechanical engineering student.
+<img src="IMG_20230811_184517-modified.png" alt="Profile Picture" width="200" height="200">
 
 ## About Me
 
-I'm a passionate Flutter developer with a strong interest in both software development and mechanical engineering. Currently pursuing a B.Tech in Mechanical Engineering, I'm excited to merge my engineering knowledge with my programming skills to create innovative solutions.
+Hello! I'm Sankalp Mathur, a results-driven Flutter developer with a passion for creating efficient and user-friendly applications. I specialize in front-end and back-end development, utilizing the latest technologies to deliver high-quality solutions.
+
+# Technical Skills
+
+Here's a breakdown of my technical skills and expertise:
+
+## Programming Languages
+
+- **Flutter and Dart:** I possess an in-depth understanding of Flutter app development and Dart programming, enabling me to create elegant and responsive mobile applications.
+
+- **Python:** Proficiency in Python programming allows me to handle various tasks, from Machine Learning to web development.
+
+- **C:** I'm skilled in C programming, which has honed my logical thinking and problem-solving abilities.
+
+## Mobile App Development
+
+- **Firebase Authentication:** Expertise in Firebase Authentication enables me to implement secure login methods, including email-password, Google Sign In, and phone authentication.
+
+- **Firebase Realtime Database and Firestore:** I'm well-versed in Firebase Realtime Database and Firestore, empowering me to build dynamic and synchronized mobile apps.
+
+- **Firebase Cloud Storage:** Proficiency in Firebase Cloud Storage allows me to seamlessly manage and retrieve user-generated content.
+
+- **Provider and Bloc State Management:** My ability to manage state using Provider and Bloc ensures smooth and efficient app behavior.
+
+## UI/UX Design
+
+- **Figma:** I have experience using Figma for UI/UX design, enabling me to create visually appealing and user-centric mobile app interfaces.
+
+## Backend Development
+
+- **Django:** Proficiency in Django empowers me to create powerful backend systems, RESTful APIs, and seamlessly integrate them with Flutter applications.
+
+## Web Development
+
+- **HTML, CSS, JavaScript:** I possess a solid foundation in web technologies, allowing me to create responsive and engaging web interfaces.
+
+## Machine Learning
+
+- **Python for ML:** My expertise in Python extends to machine learning, enabling me to develop data-driven solutions and predictive models.
+
+## Version Control
+
+- **Git and GitHub:** Proficient in version control with Git and GitHub, I ensure efficient collaboration and code management in team projects.
 
 ## Projects
 
@@ -110,14 +151,57 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 
 The Firebase Quiz App with Realtime Rewards provides an interactive and educational experience for users to enhance their knowledge while earning rewards. By combining the power of Flutter, Firebase Authentication, and Realtime Database, the app demonstrates effective user engagement, dynamic content, and real-time data synchronization.
 
+### Project 3 : Location Sharing App
 
-## Technical Skills
+# Trackmate
+![trackmate log](logo_trackmate.png)
+The Location Sharing App is a versatile and feature-rich application built with Flutter, Firebase, and Google Maps API. This app allows users to securely share their location with friends and family, enhancing connectivity and safety.
 
-- Flutter and Dart programming
-- UI/UX design for mobile apps
-- State management using Provider and Bloc
-- RESTful API integration
-- Version control with Git and GitHub
+## Features
+
+- **User Authentication:** Secure user authentication using Firebase Authentication, including email-password login and Firebase Phone Authentication.
+
+- **Real-time Location Sharing:** Users can share their real-time location with trusted contacts, promoting better coordination and ensuring the safety of loved ones.
+
+- **Google Maps Integration:** Integration with the Google Maps API provides accurate and interactive maps, allowing users to view shared locations in real time.
+
+- **Location History:** The app maintains a history of shared locations, enabling users to revisit and analyze their past travels.
+
+- **Location Privacy:** Users have control over their location sharing settings, ensuring that only approved contacts can access their location.
+
+- **Media Sharing:** The app allows users to upload and share media (images, videos) related to their shared locations using Firebase Cloud Storage.
+
+## Technologies Used
+
+- **Flutter:** The app is developed using Flutter, providing a cross-platform user experience and intuitive UI.
+
+- **Firebase Authentication:** Firebase Authentication ensures secure and streamlined user registration and login processes.
+
+- **Firebase Realtime Database:** Realtime data synchronization is achieved through Firebase Realtime Database for location sharing updates.
+
+- **Firebase Cloud Storage:** Firebase Cloud Storage is used for seamless and secure media sharing.
+
+- **Google Maps API:** Integration with the Google Maps API enables accurate and interactive map displays.
+
+- **Firebase Phone Authentication:** Firebase Phone Authentication provides an additional layer of security during registration and login.
+
+## Future Enhancements
+
+- **Group Location Sharing:** Implement the ability to create groups for sharing locations among specific circles, such as family, friends, or colleagues.
+
+- **Customized Notifications:** Provide customizable notifications for location sharing updates and reminders.
+
+- **Geofencing:** Integrate geofencing features to receive alerts when a contact enters or exits a predefined area.
+
+## Conclusion
+
+The Location Sharing App demonstrates the power of Flutter, Firebase, and Google Maps API in creating a secure, interactive, and user-friendly application. With its focus on location sharing, privacy, and safety, the app offers a unique solution for staying connected in an increasingly mobile world.
+
+---
+
+Feel free to customize this description to match the specifics of your project. Highlight the technical aspects that showcase your expertise and the value your project brings to potential users and collaborators.
+
+
 
 ## Education
 
