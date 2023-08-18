@@ -157,7 +157,7 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 The Firebase Quiz App with Realtime Rewards provides an interactive and educational experience for users to enhance their knowledge while earning rewards. By combining the power of Flutter, Firebase Authentication, and Realtime Database, the app demonstrates effective user engagement, dynamic content, and real-time data synchronization.
 
 ## Github repository
--  ![](https://github.com/sankalpmathur68/quizzykids)
+-  ![(https://github.com/sankalpmathur68/quizzykids)](https://github.com/sankalpmathur68/quizzykids)
 - 
 ## Drive Link
 -  https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link
