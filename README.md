@@ -53,11 +53,11 @@ Here's a breakdown of my technical skills and expertise:
 
 ## Projects
 
-### Project 1: Flutter Notes App
+# Project 1: Flutter Notes App
 
 ![Note Nest](logo_.png)
 
-# Description
+## Description
 
 The Firestore Note App with BLoC is a powerful and intuitive note-taking application built using the Flutter framework. This app enables users to create, edit, and manage their notes seamlessly while harnessing the capabilities of Firebase Firestore for real-time data synchronization.
 
@@ -103,11 +103,11 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 
 The Firestore Note App with BLoC offers users a seamless and feature-rich note-taking experience. By combining the power of Flutter, Firebase Firestore, and the BLoC pattern, the app stands as a testament to effective application architecture, real-time data synchronization, and user-centric design.
 
-### Project 2: Kids Quiz App
+# Project 2: Kids Quiz App
 
 ![Qizzykids](logo.png)
 
-# Firebase Quiz App with Realtime Rewards
+## Description
 
 The Firebase Quiz App with Realtime Rewards is an engaging educational application built using Flutter. This app offers users the opportunity to participate in quizzes, enhance their knowledge, and earn reward points in real time, all while utilizing Firebase for seamless user authentication and data management.
 
@@ -151,10 +151,12 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 
 The Firebase Quiz App with Realtime Rewards provides an interactive and educational experience for users to enhance their knowledge while earning rewards. By combining the power of Flutter, Firebase Authentication, and Realtime Database, the app demonstrates effective user engagement, dynamic content, and real-time data synchronization.
 
-### Project 3 : Location Sharing App
+# Project 3 : Location Sharing App
 
-# Trackmate
+## Description
 ![trackmate log](logo_trackmate.png)
+
+
 The Location Sharing App is a versatile and feature-rich application built with Flutter, Firebase, and Google Maps API. This app allows users to securely share their location with friends and family, enhancing connectivity and safety.
 
 ## Features
@@ -189,7 +191,7 @@ The Location Sharing App is a versatile and feature-rich application built with 
 
 - **Group Location Sharing:** Implement the ability to create groups for sharing locations among specific circles, such as family, friends, or colleagues.
 
-- **Customized Notifications:** Provide customizable notifications for location sharing updates and reminders.
+- **Customized Notifications:** Provide customizable notifications for location-sharing updates and reminders.
 
 - **Geofencing:** Integrate geofencing features to receive alerts when a contact enters or exits a predefined area.
 
@@ -197,39 +199,19 @@ The Location Sharing App is a versatile and feature-rich application built with 
 
 The Location Sharing App demonstrates the power of Flutter, Firebase, and Google Maps API in creating a secure, interactive, and user-friendly application. With its focus on location sharing, privacy, and safety, the app offers a unique solution for staying connected in an increasingly mobile world.
 
----
-
-Feel free to customize this description to match the specifics of your project. Highlight the technical aspects that showcase your expertise and the value your project brings to potential users and collaborators.
-
-
 
 ## Education
 
-- B.Tech in Mechanical Engineering (Expected Graduation: YYYY)
+- B.Tech in Mechanical Engineering (Expected Graduation: 2024)
 - Relevant coursework: Fluid Mechanics, Thermodynamics, CAD Software
 
 ## Certifications
 
-- Google's Flutter Certification (Month Year)
-
-## Personal Projects
-
-### Personal Project: Flutter Animation Gallery
-
-- **Description:** An interactive gallery of various Flutter animations.
-- **GitHub Repository:** [Animation Gallery Repo](https://github.com/yourusername/animation-gallery)
-
-## Blog
-
-### Blog Post: "Integrating Mechanical Principles into Flutter Development"
-
-In this blog post, I explore how mechanical engineering concepts can be applied to mobile app development using Flutter.
-
-Read the full post [here](blog/integrating-mechanical-principles.md).
+- NPTEL's Python for Data Science certificate(2021)
 
 ## Contact Information
 
-Feel free to reach out to me via email at your.email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+Feel free to reach out to me via email at your.email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sankalp-mathur-5230a2212).
 
 ## Resume
 
