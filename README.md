@@ -10,7 +10,7 @@ I'm a passionate Flutter developer with a strong interest in both software devel
 
 ### Project 1: Flutter Weather App
 
-![Note Nest](Screenshot_2023-08-18-10-13-03-205_com.example.scicalci.jpg)
+![Note Nest](logo_.png)
 
 - **Description:** A Flutter app that provides real-time weather updates based on the user's location.
 - **Features:** Current weather conditions, 7-day forecast, location-based data.
