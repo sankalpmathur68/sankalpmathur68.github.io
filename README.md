@@ -1,5 +1,4 @@
-# Sankalp Mathur 
-![](IMG_20230811_184517-modified.png)
+ ![Sankalp Mathur](IMG_20230811_184517-modified.png)
 Welcome to my portfolio, where I showcase my projects and skills as a Flutter developer and mechanical engineering student.
 
 ## About Me
