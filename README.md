@@ -2,7 +2,7 @@
 
 # Sankalp Mathur 
 
-                  <img src="IMG_20230811_184517-modified.png" alt="Profile Picture" width="200" height="200">
+<img src="IMG_20230811_184517-modified.png" alt="Profile Picture" width="200" height="200">
 
 Welcome to my portfolio, where I showcase my projects and skills as a Flutter developer and mechanical engineering student.
 
