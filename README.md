@@ -233,6 +233,56 @@ The Location Sharing App is a versatile and feature-rich application built with 
 The Location Sharing App demonstrates the power of Flutter, Firebase, and Google Maps API in creating a secure, interactive, and user-friendly application. With its focus on location sharing, privacy, and safety, the app offers a unique solution for staying connected in an increasingly mobile world.
 
 </details>
+<details>
+<summary>
+  
+# Tic Tac Toe Game with Pygame
+</summary>
+
+![Tic-Tac-Toe](ticTacToe.png)
+
+The Tic Tac Toe Game with Pygame is a classic and interactive two-player game built using Python. This project utilizes the Pygame library for graphical interface and user interaction, along with the NumPy library for efficient data manipulation.
+
+## Features
+
+- **Interactive Gameplay:** Players can take turns making moves on the game board using the mouse or keyboard.
+
+- **Visual Feedback:** The Pygame library provides an engaging visual experience with clickable cells and animations.
+
+- **Winning Conditions:** The game detects winning combinations and declares the winner accordingly.
+
+
+## Technologies Used
+
+- **Python:** The game logic and interaction are built using Python programming.
+
+- **Pygame:** Pygame is utilized to create the game's graphical interface, allowing for an interactive and visually appealing experience.
+
+- **NumPy:** The NumPy library manages the game board, track moves, and implement the AI player.
+
+## How to Play
+
+1. Run the game using the Python interpreter.
+
+2. Players take turns clicking on an empty cell to make a move.
+
+3. The game detects when a player wins or if the game ends in a draw.
+
+
+## Future Enhancements
+
+
+- **Multiplayer Mode:** Implement online multiplayer functionality to allow players to compete remotely.
+
+- **Customizable Themes:** Add options for players to choose different themes and visual styles.
+
+## Conclusion
+
+The Tic Tac Toe Game with Pygame showcases the fusion of Python, Pygame, and NumPy libraries to create a dynamic and entertaining gaming experience. Through its interactive gameplay and potential AI challenge, the project demonstrates the application of programming skills in building both fun and educational games.
+
+---
+
+</details>
 
 ## Education
 
