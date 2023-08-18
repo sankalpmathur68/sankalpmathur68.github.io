@@ -58,9 +58,9 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 
 The Firestore Note App with BLoC offers users a seamless and feature-rich note-taking experience. By combining the power of Flutter, Firebase Firestore, and the BLoC pattern, the app stands as a testament to effective application architecture, real-time data synchronization, and user-centric design.
 
-### Project 2: Mechanical Design Showcase
+### Project 2: Kids Quiz App
 
-![Mechanical Design](project2_screenshot.png)
+![Qizzykids](logo.png)
 
 # Firebase Quiz App with Realtime Rewards
 
