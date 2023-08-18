@@ -100,10 +100,9 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 - **Customizable Themes:** Allow users to personalize the app's appearance with customizable themes and color schemes.
 
 ## Github repository
-- ![Note Nest GitHub] https://github.com/sankalpmathur68/Note-Nest
-- 
+-  https://github.com/sankalpmathur68/Note-Nest
 ## Drive Link
-- ![Note Nest Drive](https://drive.google.com/drive/folders/1-xGE0x1_VKEjHv3z1LJLAWJrfPQEWEu7?usp=sharing)
+-  https://drive.google.com/drive/folders/1-xGE0x1_VKEjHv3z1LJLAWJrfPQEWEu7?usp=sharing
 
 ## Conclusion
 
@@ -158,10 +157,10 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 The Firebase Quiz App with Realtime Rewards provides an interactive and educational experience for users to enhance their knowledge while earning rewards. By combining the power of Flutter, Firebase Authentication, and Realtime Database, the app demonstrates effective user engagement, dynamic content, and real-time data synchronization.
 
 ## Github repository
-- ![Quizzy kids GitHub](https://github.com/sankalpmathur68/quizzykids)
+-  https://github.com/sankalpmathur68/quizzykids
 - 
 ## Drive Link
-- ![Quizzy kids Drive](https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link)
+-  https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link
 
 
 # Project 3 : Location Sharing App
@@ -210,10 +209,10 @@ The Location Sharing App is a versatile and feature-rich application built with 
 - **Geofencing:** Integrate geofencing features to receive alerts when a contact enters or exits a predefined area.
 
 ## Github repository
-- ![Trackmate GitHub](https://github.com/sankalpmathur68/trackmate)
+-  https://github.com/sankalpmathur68/trackmate
 - 
 ## Drive Link
-- ![Trackmate Drive](https://drive.google.com/drive/folders/1dxAjdGHZdr0EzuL3TZbMYaMhnEMIM4uK?usp=sharing)
+-  https://drive.google.com/drive/folders/1dxAjdGHZdr0EzuL3TZbMYaMhnEMIM4uK?usp=sharing
 
 
 ## Conclusion
