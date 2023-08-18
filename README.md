@@ -53,8 +53,12 @@ Here's a breakdown of my technical skills and expertise:
 
 ## Projects
 
+<details>
+  <summary>
+    
 # Project 1: Flutter Notes App
 
+</summary>
 ![Note Nest](logo_.png)
 
 ## Description
@@ -107,7 +111,7 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 ## Conclusion
 
 The Firestore Note App with BLoC offers users a seamless and feature-rich note-taking experience. By combining the power of Flutter, Firebase Firestore, and the BLoC pattern, the app stands as a testament to effective application architecture, real-time data synchronization, and user-centric design.
-
+</details>
 # Project 2: Kids Quiz App
 
 ![Qizzykids](logo.png)
