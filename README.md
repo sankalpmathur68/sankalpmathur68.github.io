@@ -55,6 +55,7 @@ Project 1: Flutter Notes App
 </summary>
 
 ![Note Nest](logo_.png)
+
 ### Description
 
 The Firestore Note App with BLoC is a powerful and intuitive note-taking application built using the Flutter framework. This app enables users to create, edit, and manage their notes seamlessly while harnessing the capabilities of Firebase Firestore for real-time data synchronization.
@@ -108,6 +109,7 @@ Project 2: Kids Quiz App
 </summary>
 
 ![Qizzykids](logo.png)
+
 ### Description
 
 The Firebase Quiz App with Realtime Rewards is an engaging educational application built using Flutter. This app offers users the opportunity to participate in quizzes, enhance their knowledge, and earn reward points in real time, all while utilizing Firebase for seamless user authentication and data management.
@@ -160,6 +162,7 @@ Project 3: Location-Sharing App
 </summary>
 
 ![trackmate log](logo_trackmate.png)
+
 ### Description
 
 The Location Sharing App is a versatile and feature-rich application built with Flutter, Firebase, and Google Maps API. This app allows users to securely share their location with friends and family, enhancing connectivity and safety.
