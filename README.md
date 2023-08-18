@@ -54,11 +54,11 @@ Here's a breakdown of my technical skills and expertise:
 ## Projects
 
 <details>
-  <summary>
-    
+<summary>
+  
 # Project 1: Flutter Notes App
-
 </summary>
+
 ![Note Nest](logo_.png)
 
 ## Description
@@ -112,7 +112,12 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 
 The Firestore Note App with BLoC offers users a seamless and feature-rich note-taking experience. By combining the power of Flutter, Firebase Firestore, and the BLoC pattern, the app stands as a testament to effective application architecture, real-time data synchronization, and user-centric design.
 </details>
+
+<details>
+  <summary>
+    
 # Project 2: Kids Quiz App
+</summary>
 
 ![Qizzykids](logo.png)
 
@@ -166,9 +171,12 @@ The Firebase Quiz App with Realtime Rewards provides an interactive and educatio
 ## Drive Link
 -  [Quizzykids Drive](https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link)
 
-
-# Project 3 : Location Sharing App
-
+</details>
+<details>
+  <summary>
+    
+# Project 3: Location Sharing App
+</summary>
 
 ![trackmate log](logo_trackmate.png)
 
@@ -224,6 +232,7 @@ The Location Sharing App is a versatile and feature-rich application built with 
 
 The Location Sharing App demonstrates the power of Flutter, Firebase, and Google Maps API in creating a secure, interactive, and user-friendly application. With its focus on location sharing, privacy, and safety, the app offers a unique solution for staying connected in an increasingly mobile world.
 
+</details>
 
 ## Education
 
