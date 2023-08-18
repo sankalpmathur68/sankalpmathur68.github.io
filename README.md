@@ -100,9 +100,9 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 - **Customizable Themes:** Allow users to personalize the app's appearance with customizable themes and color schemes.
 
 ## Github repository
--  [Note Nest Github]https://github.com/sankalpmathur68/Note-Nest
+-  [Note Nest Github](https://github.com/sankalpmathur68/Note-Nest)
 ## Drive Link
--  [Note Nest Drive]https://drive.google.com/drive/folders/1-xGE0x1_VKEjHv3z1LJLAWJrfPQEWEu7?usp=sharing
+-  [Note Nest Drive](https://drive.google.com/drive/folders/1-xGE0x1_VKEjHv3z1LJLAWJrfPQEWEu7?usp=sharing)
 
 ## Conclusion
 
@@ -160,7 +160,7 @@ The Firebase Quiz App with Realtime Rewards provides an interactive and educatio
 -  [Quizzykids Github](https://github.com/sankalpmathur68/quizzykids)
 - 
 ## Drive Link
--  [Quizzykids Drive]https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link
+-  [Quizzykids Drive](https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link)
 
 
 # Project 3 : Location Sharing App
