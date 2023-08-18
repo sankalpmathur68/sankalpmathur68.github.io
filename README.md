@@ -3,7 +3,7 @@
 # Sankalp Mathur 
 
 
-<img style="background-color: yellow;" src="IMG_20230811_184517-modified.png" alt="Profile Picture" width="200" height="200">
+<img src="IMG_20230811_184517-modified.png" alt="Profile Picture"  style="border: 2px solid #007bff; border-radius: 50%; width: 150px; height: 150px;">
 
 ## About Me
 
