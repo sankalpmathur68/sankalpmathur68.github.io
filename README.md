@@ -48,7 +48,7 @@ Here's a breakdown of my technical skills and expertise:
 <details>
 <summary>
   
-## Project 1: Flutter Notes App
+Project 1: Flutter Notes App
 
 </summary>
 
@@ -102,7 +102,7 @@ The Firestore Note App with BLoC offers users a seamless and feature-rich note-t
 <details>
   <summary>
     
-# Project 2: Kids Quiz App
+Project 2: Kids Quiz App
 </summary>
 
 ![Qizzykids](logo.png)
@@ -154,7 +154,7 @@ The Firebase Quiz App with Realtime Rewards provides an interactive and educatio
 <details>
   <summary>
     
-## Project 3: Location Sharing App
+Project 3: Location-Sharing App
 </summary>
 
 ![trackmate log](logo_trackmate.png)
@@ -208,7 +208,7 @@ The Location Sharing App demonstrates the power of Flutter, Firebase, and Google
 <details>
 <summary>
   
-## Project 4: Tic Tac Toe Game with Pygame
+Project 4: Tic Tac Toe Game with Pygame
 </summary>
 
 ![Tic-Tac-Toe](ticTacToe.png)
