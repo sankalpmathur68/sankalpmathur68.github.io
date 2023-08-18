@@ -236,7 +236,7 @@ The Location Sharing App demonstrates the power of Flutter, Firebase, and Google
 <details>
 <summary>
   
-# Tic Tac Toe Game with Pygame
+# Project 4: Tic Tac Toe Game with Pygame
 </summary>
 
 ![Tic-Tac-Toe](ticTacToe.png)
