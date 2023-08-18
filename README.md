@@ -1,5 +1,6 @@
 <!--Sankalp Mathur-->
 ![sankalp](IMG_20230811_184517-modified.png)
+<img src="https://example.com/profile.jpg" alt="Profile Picture" width="100" height="100">
 Welcome to my portfolio, where I showcase my projects and skills as a Flutter developer and mechanical engineering student.
 
 ## About Me
