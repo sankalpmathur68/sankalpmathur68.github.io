@@ -4,24 +4,21 @@
 
 
 <img src="IMG_20230811_184517-modified.png" alt="Profile Picture"  style="border: 2px solid #000000; border-radius: 50%; width: 150px; height: 150px;">
-
-## About Me 
+### About Me 
 Hello! I'm Sankalp Mathur, a results-driven Flutter developer with a passion for creating efficient and user-friendly applications. I specialize in front-end and back-end development, utilizing the latest technologies to deliver high-quality solutions.
 
 # Technical Skills
 
 Here's a breakdown of my technical skills and expertise:
 
-
-## Programming Languages
+### Programming Languages
 
 - **Flutter and Dart:** I possess an in-depth understanding of Flutter app development and Dart programming, enabling me to create elegant and responsive mobile applications.
 
 - **Python:** Proficiency in Python programming allows me to handle various tasks, from Machine Learning to web development.
 
 - **C:** I'm skilled in C programming, which has honed my logical thinking and problem-solving abilities.
-
-## Mobile App Development
+### Mobile App Development
 
 - **Firebase Authentication:** Expertise in Firebase Authentication enables me to implement secure login methods, including email-password, Google Sign In, and phone authentication.
 
@@ -30,42 +27,36 @@ Here's a breakdown of my technical skills and expertise:
 - **Firebase Cloud Storage:** Proficiency in Firebase Cloud Storage allows me to seamlessly manage and retrieve user-generated content.
 
 - **Provider and Bloc State Management:** My ability to manage state using Provider and Bloc ensures smooth and efficient app behavior.
-
-## UI/UX Design
+### UI/UX Design
 
 - **Figma:** I have experience using Figma for UI/UX design, enabling me to create visually appealing and user-centric mobile app interfaces.
-
-## Backend Development
+### Backend Development
 
 - **Django:** Proficiency in Django empowers me to create powerful backend systems, RESTful APIs, and seamlessly integrate them with Flutter applications.
-
-## Web Development
+### Web Development
 
 - **HTML, CSS, JavaScript:** I possess a solid foundation in web technologies, allowing me to create responsive and engaging web interfaces.
-
-## Machine Learning
+### Machine Learning
 
 - **Python for ML:** My expertise in Python extends to machine learning, enabling me to develop data-driven solutions and predictive models.
-
-## Version Control
+### Version Control
 
 - **Git and GitHub:** Proficient in version control with Git and GitHub, I ensure efficient collaboration and code management in team projects.
 
-## Projects
+# Projects
 
 <details>
 <summary>
   
-# Project 1: Flutter Notes App
+## Project 1: Flutter Notes App
+
 </summary>
 
 ![Note Nest](logo_.png)
-
-## Description
+### Description
 
 The Firestore Note App with BLoC is a powerful and intuitive note-taking application built using the Flutter framework. This app enables users to create, edit, and manage their notes seamlessly while harnessing the capabilities of Firebase Firestore for real-time data synchronization.
-
-## Features
+### Features
 
 - **User Authentication:** Users can create accounts or log in using their credentials, ensuring a secure and personalized experience.
 
@@ -80,8 +71,7 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 - **Search and Filtering:** A robust search functionality enables users to quickly locate specific notes by keywords. Filtering options further enhance the user experience.
 
 - **Responsive Design:** The app's user interface is responsive, adapting to various screen sizes and orientations, providing a consistent experience across devices.
-
-## Technologies Used
+### Technologies Used
 
 - **Flutter:** The app is developed using the Flutter framework, enabling cross-platform compatibility and a native-like user experience.
 
@@ -92,8 +82,7 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 - **Firebase Authentication:** User authentication and security are ensured through Firebase Authentication services.
 
 - **Firebase Storage:** Firebase Storage is used for efficiently managing and storing user-uploaded images or media within notes.
-
-## Future Enhancements
+### Future Enhancements
 
 - **Rich Media Support:** Integrate support for adding images, videos, and other multimedia elements to notes.
 
@@ -102,13 +91,10 @@ The Firestore Note App with BLoC is a powerful and intuitive note-taking applica
 - **Offline Mode:** Implement offline functionality to allow users to access their notes even when there's no internet connection.
 
 - **Customizable Themes:** Allow users to personalize the app's appearance with customizable themes and color schemes.
-
-## Github repository
--  [Note Nest Github](https://github.com/sankalpmathur68/Note-Nest)
-## Drive Link
+### Github repository
+-  [Note Nest Github](https://github.com/sankalpmathur68/Note-Nest)### Drive Link
 -  [Note Nest Drive](https://drive.google.com/drive/folders/1-xGE0x1_VKEjHv3z1LJLAWJrfPQEWEu7?usp=sharing)
-
-## Conclusion
+### Conclusion
 
 The Firestore Note App with BLoC offers users a seamless and feature-rich note-taking experience. By combining the power of Flutter, Firebase Firestore, and the BLoC pattern, the app stands as a testament to effective application architecture, real-time data synchronization, and user-centric design.
 </details>
@@ -120,12 +106,10 @@ The Firestore Note App with BLoC offers users a seamless and feature-rich note-t
 </summary>
 
 ![Qizzykids](logo.png)
-
-## Description
+### Description
 
 The Firebase Quiz App with Realtime Rewards is an engaging educational application built using Flutter. This app offers users the opportunity to participate in quizzes, enhance their knowledge, and earn reward points in real time, all while utilizing Firebase for seamless user authentication and data management.
-
-## Features
+### Features
 
 - **User Authentication:** Users can sign up and log in using their Firebase accounts, ensuring a secure and personalized experience.
 
@@ -138,8 +122,7 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 - **Interactive User Interface:** The app features a user-friendly and interactive interface, making the quiz-taking experience enjoyable.
 
 - **Progress Tracking:** Users can view their quiz history, scores, and earned rewards, providing a sense of achievement.
-
-## Technologies Used
+### Technologies Used
 
 - **Flutter:** The app is developed using Flutter, allowing for a consistent user experience across different platforms.
 
@@ -150,8 +133,7 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 - **Firebase Realtime Database:** Firebase Realtime Database is utilized to store users' reward points and maintain leaderboards.
 
 - **State Management:** Flutter's state management solutions are employed for efficient data handling and UI updates.
-
-## Future Enhancements
+### Future Enhancements
 
 - **More Quiz Categories:** Expand the app's quiz offerings by adding a variety of categories and topics to cater to different interests.
 
@@ -160,31 +142,26 @@ The Firebase Quiz App with Realtime Rewards is an engaging educational applicati
 - **User Profiles:** Create customizable user profiles where users can track their progress and customize their avatars.
 
 - **Social Sharing:** Integrate social media sharing to enable users to share their quiz achievements and compete with friends.
-
-## Conclusion
+### Conclusion
 
 The Firebase Quiz App with Realtime Rewards provides an interactive and educational experience for users to enhance their knowledge while earning rewards. By combining the power of Flutter, Firebase Authentication, and Realtime Database, the app demonstrates effective user engagement, dynamic content, and real-time data synchronization.
-
-## Github repository
+### Github repository
 -  [Quizzykids Github](https://github.com/sankalpmathur68/quizzykids)
-- 
-## Drive Link
+- ### Drive Link
 -  [Quizzykids Drive](https://drive.google.com/drive/folders/1PtHCEUESpXyeCZg0QP_DQNkNAAm1qFwY?usp=drive_link)
 
 </details>
 <details>
   <summary>
     
-# Project 3: Location Sharing App
+## Project 3: Location Sharing App
 </summary>
 
 ![trackmate log](logo_trackmate.png)
-
-## Description
+### Description
 
 The Location Sharing App is a versatile and feature-rich application built with Flutter, Firebase, and Google Maps API. This app allows users to securely share their location with friends and family, enhancing connectivity and safety.
-
-## Features
+### Features
 
 - **User Authentication:** Secure user authentication using Firebase Authentication, including email-password login and Firebase Phone Authentication.
 
@@ -197,8 +174,7 @@ The Location Sharing App is a versatile and feature-rich application built with 
 - **Location Privacy:** Users have control over their location sharing settings, ensuring that only approved contacts can access their location.
 
 - **Media Sharing:** The app allows users to upload and share media (images, videos) related to their shared locations using Firebase Cloud Storage.
-
-## Technologies Used
+### Technologies Used
 
 - **Flutter:** The app is developed using Flutter, providing a cross-platform user experience and intuitive UI.
 
@@ -211,24 +187,20 @@ The Location Sharing App is a versatile and feature-rich application built with 
 - **Google Maps API:** Integration with the Google Maps API enables accurate and interactive map displays.
 
 - **Firebase Phone Authentication:** Firebase Phone Authentication provides an additional layer of security during registration and login.
-
-## Future Enhancements
+### Future Enhancements
 
 - **Group Location Sharing:** Implement the ability to create groups for sharing locations among specific circles, such as family, friends, or colleagues.
 
 - **Customized Notifications:** Provide customizable notifications for location-sharing updates and reminders.
 
 - **Geofencing:** Integrate geofencing features to receive alerts when a contact enters or exits a predefined area.
-
-## Github repository
+### Github repository
 -  [Trackmate Github](https://github.com/sankalpmathur68/trackmate)
-- 
-## Drive Link
+- ### Drive Link
 -  [Trackmate Drive
 ](https://drive.google.com/drive/folders/1dxAjdGHZdr0EzuL3TZbMYaMhnEMIM4uK?usp=sharing
 )
-
-## Conclusion
+### Conclusion
 
 The Location Sharing App demonstrates the power of Flutter, Firebase, and Google Maps API in creating a secure, interactive, and user-friendly application. With its focus on location sharing, privacy, and safety, the app offers a unique solution for staying connected in an increasingly mobile world.
 
@@ -236,14 +208,13 @@ The Location Sharing App demonstrates the power of Flutter, Firebase, and Google
 <details>
 <summary>
   
-# Project 4: Tic Tac Toe Game with Pygame
+## Project 4: Tic Tac Toe Game with Pygame
 </summary>
 
 ![Tic-Tac-Toe](ticTacToe.png)
 
 The Tic Tac Toe Game with Pygame is a classic and interactive two-player game built using Python. This project utilizes the Pygame library for graphical interface and user interaction, along with the NumPy library for efficient data manipulation.
-
-## Features
+### Features
 
 - **Interactive Gameplay:** Players can take turns making moves on the game board using the mouse or keyboard.
 
@@ -251,16 +222,14 @@ The Tic Tac Toe Game with Pygame is a classic and interactive two-player game bu
 
 - **Winning Conditions:** The game detects winning combinations and declares the winner accordingly.
 
-
-## Technologies Used
+### Technologies Used
 
 - **Python:** The game logic and interaction are built using Python programming.
 
 - **Pygame:** Pygame is utilized to create the game's graphical interface, allowing for an interactive and visually appealing experience.
 
 - **NumPy:** The NumPy library manages the game board, track moves, and implement the AI player.
-
-## How to Play
+### How to Play
 
 1. Run the game using the Python interpreter.
 
@@ -268,36 +237,30 @@ The Tic Tac Toe Game with Pygame is a classic and interactive two-player game bu
 
 3. The game detects when a player wins or if the game ends in a draw.
 
-
-## Future Enhancements
+### Future Enhancements
 
 
 - **Multiplayer Mode:** Implement online multiplayer functionality to allow players to compete remotely.
 
 - **Customizable Themes:** Add options for players to choose different themes and visual styles.
-
-## Conclusion
+### Conclusion
 
 The Tic Tac Toe Game with Pygame showcases the fusion of Python, Pygame, and NumPy libraries to create a dynamic and entertaining gaming experience. Through its interactive gameplay and potential AI challenge, the project demonstrates the application of programming skills in building both fun and educational games.
 
 ---
 
 </details>
-
-## Education
+### Education
 
 - B.Tech in Mechanical Engineering (Expected Graduation: 2024)
 - Relevant coursework: Fluid Mechanics, Thermodynamics, CAD Software
-
-## Certifications
+### Certifications
 
 - NPTEL's Python for Data Science certificate(2021)
-
-## Contact Information
+### Contact Information
 
 Feel free to reach out to me via email at sankalpmthr71@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sankalp-mathur-5230a2212).
-
-## Resume
+### Resume
 
 For a more detailed overview of my skills and experiences, please refer to my [resume](resume.pdf).
 
