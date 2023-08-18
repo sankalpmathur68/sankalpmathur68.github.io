@@ -211,7 +211,7 @@ The Location Sharing App demonstrates the power of Flutter, Firebase, and Google
 
 ## Contact Information
 
-Feel free to reach out to me via email at your.email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sankalp-mathur-5230a2212).
+Feel free to reach out to me via email at sankalpmthr71@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sankalp-mathur-5230a2212).
 
 ## Resume
 
