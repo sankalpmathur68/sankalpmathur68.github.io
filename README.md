@@ -256,7 +256,7 @@ The Tic Tac Toe Game with Pygame showcases the fusion of Python, Pygame, and Num
 Feel free to reach out to me via email at sankalpmthr71@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sankalp-mathur-5230a2212).
 ### Resume
 
-For a more detailed overview of my skills and experiences, please refer to my [resume](resume.pdf).
+For a more detailed overview of my skills and experiences, please refer to my [resume](Sankalp_resume_2023.pdf).
 
 ---
 
